@@ -1,0 +1,25 @@
+.container {
+  padding: 20px;
+}
+
+.card {
+    box-shadow: 7px 9px 8px rgba(0, 0, 0, 0.1);
+    margin: 0px
+}
+
+.card-img-top {
+  border-radius: 10px 10px 0 0;
+}
+
+.card-body {
+  text-align: center;
+}
+
+.card-title {
+
+}
+
+.card-text {
+  font-size: 1rem;
+  color: #c6e8e5;
+}
